@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Kroužek programování
 
-You can use the [editor on GitHub](https://github.com/banterCZ/banterCZ.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aby si děti nemusely opisovat jednotlivé internetové adresy a aby i jejich ro rodiče případně viděli, s čím v hodině pracujeme, budu zde shromažďovat důležité odkazy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Scratch
 
-### Markdown
+Používáme programovací jazyk [Scratch](https://scratch.mit.edu/projects/editor/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Z [návodů pro nováčky](https://www.programovanihrou.cz/jak-na-to/) jsme zatím dělali [rybu](https://www.programovanihrou.cz/wp-content/uploads/karticky/01_uvod_ryba.pdf).
 
-```markdown
-Syntax highlighted code block
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Scratch_GUI.JPG/640px-Scratch_GUI.JPG)
 
-# Header 1
-## Header 2
-### Header 3
+## Robot Meet Edison
 
-- Bulleted
-- List
+Robota [Meet Edison](https://meetedison.com/) programujeme v jazyce [EdBlocks](https://www.edblocksapp.com/)
 
-1. Numbered
-2. List
+![](https://meetedison.com/wp-content/uploads/2016/09/Edison-V2.0-Educational-robot-270x203.jpg)
 
-**Bold** and _Italic_ and `Code` text
+## Lightbot
 
-[Link](url) and ![Image](src)
-```
+Na hodině kódu jsme pracovali s programem [Lightbot](http://lightbot.com/flash.html) a ještě se k němu nejspíš vrátíme.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/banterCZ/banterCZ.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](http://lightbot.com/img/screen_proc.png)
