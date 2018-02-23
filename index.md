@@ -21,3 +21,13 @@ Robota [Meet Edison](https://meetedison.com/) programujeme v jazyce [EdBlocks](h
 Na hodině kódu jsme pracovali s programem [Lightbot](http://lightbot.com/flash.html) a ještě se k němu nejspíš vrátíme.
 
 ![](http://lightbot.com/img/screen_proc.png)
+
+## Úlohy na informatické myšlení
+
+### Bobřík informatiky
+
+Procházeli jsme [archivní testy bobříka informatiky](https://www.ibobr.cz/test/archiv).
+
+### CS Unplugged
+
+Ze stránek [Computer Science without a computer](https://www.csunplugged.org/en/) jsme dělali [cvičení na řazení čísel](https://www.csunplugged.org/en/resources/sorting-network/).
