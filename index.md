@@ -31,3 +31,9 @@ Procházeli jsme [archivní testy bobříka informatiky](https://www.ibobr.cz/te
 ### CS Unplugged
 
 Ze stránek [Computer Science without a computer](https://www.csunplugged.org/en/) jsme dělali [cvičení na řazení čísel](https://www.csunplugged.org/en/resources/sorting-network/).
+
+## Code.org
+
+* Pro prvňáky: [Včela posloupnost](https://studio.code.org/s/course1/stage/7/puzzle/1)
+* Pro druháky: [Včela cykly](https://studio.code.org/s/course1/stage/14/puzzle/1)
+* Pro starší: [Hodina kódu s Minecraftem](https://studio.code.org/s/mc/stage/1/puzzle/1)
