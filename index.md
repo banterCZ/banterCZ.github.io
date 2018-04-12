@@ -39,3 +39,13 @@ Ze stránek [Computer Science without a computer](https://www.csunplugged.org/en
 * Pro starší: [Hodina kódu s Minecraftem](https://studio.code.org/s/mc/stage/1/puzzle/1)
 * [Složitější Minecraft](https://studio.code.org/s/minecraft/stage/1/puzzle/1)
 * [Včela podmínky](https://studio.code.org/s/course2/stage/13/puzzle/1)
+* [Umělec posloupnost](https://studio.code.org/s/course1/stage/8/puzzle/1)
+* [Umělec tvary](https://studio.code.org/s/course1/stage/10/puzzle/1)
+* [Umělec cykly](https://studio.code.org/s/course1/stage/18/puzzle/1)
+
+### Pokročilí / starší
+
+* [Umělec posloupnost](https://studio.code.org/s/course2/stage/4/puzzle/1)
+* [Umělec cykly](https://studio.code.org/s/course2/stage/7/puzzle/1)
+* [Umělec vnořené smyčky](https://studio.code.org/s/course2/stage/19/puzzle/1)
+* [Frozen (úhly)](https://studio.code.org/s/frozen/stage/1/puzzle/1)
