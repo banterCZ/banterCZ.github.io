@@ -44,7 +44,7 @@ Ze stránek [Computer Science without a computer](https://www.csunplugged.org/en
 * [Umělec cykly](https://studio.code.org/s/course1/stage/18/puzzle/1)
 * [StarWars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
 * [Flappy](http://studio.code.org/s/course2/stage/16/puzzle/1)
-* [Zombie bludiště](https://studio.code.org/s/course3/stage/2/puzzle/15)
+* [Zombie bludiště](https://studio.code.org/s/course3/stage/2/puzzle/1)
 
 ### Pokročilí / starší
 
