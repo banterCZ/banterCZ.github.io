@@ -46,6 +46,7 @@ Ze stránek [Computer Science without a computer](https://www.csunplugged.org/en
 * [Flappy](http://studio.code.org/s/course2/stage/16/puzzle/1)
 * [Hravá laboratoř](https://studio.code.org/s/course2/stage/17/puzzle/1)
 * [Zombie bludiště](https://studio.code.org/s/course3/stage/2/puzzle/1)
+* [Bludiště podmínky](https://studio.code.org/s/course3/stage/8/puzzle/1)
 
 ### Pokročilí / starší
 
